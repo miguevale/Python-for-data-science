@@ -500,7 +500,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "# Mostrar la edad media de las mujeres que viajaban en cada clase.\n",
+    "# Imprima la edad media de las mujeres que viajaban en cada clase.\n",
     "\n"
    ]
   },
@@ -581,7 +581,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "# Mostrar el porcentaje de menores y mayores de edad que sobrevivieron en cada clase.\n",
+    "# Imprima el porcentaje de menores y mayores de edad que sobrevivieron en cada clase.\n",
     "\n"
    ]
   }
@@ -602,7 +602,7 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
-   "version": "3.8.5"
+   "version": "3.6.10"
   }
  },
  "nbformat": 4,
